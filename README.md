@@ -1,4 +1,4 @@
-# Apps Android que entiendes: Kotlin y Compose asistido por IA
+# Crea tu app Android con Kotlin y Compose asistida por IA
 
 Curso en línea de tres unidades. En cada una construyes una app Android con Kotlin y Jetpack Compose, con tests desde el primer paso, y trabajas con un agente de código sin perder el control de lo que entra a tu proyecto: le pides el código, revisas el diff y lo compruebas con los tests.
 
@@ -26,7 +26,7 @@ Cada unidad termina con un reto: un contrato escrito, sin código guiado, que ve
    ./gradlew testDebugUnitTest   # al inicio: la demo en verde; el taller y el reto en rojo
    ```
 
-El `README.md` de cada plantilla trae el contrato del reto, qué archivos puedes modificar y la lista para revisar antes de entregar.
+El `README.md` de cada plantilla explica cómo instalar y correr el proyecto. El contrato del reto, qué archivos puedes modificar y la lista para revisar tu trabajo están en la guía del reto de cada unidad, en el material del curso.
 
 ## Requisitos
 
